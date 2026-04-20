@@ -2,10 +2,11 @@
 
 ## Demo Screenshots
 
-| Red F | Grey C | Blue H |
-|:---:|:---:|:---:|
-| ![Red F](https://github.com/user-attachments/assets/7122dfb2-2975-433b-857e-e593414909a3) | ![Grey C](https://github.com/user-attachments/assets/7dbd8095-257a-42bc-8656-3240a2322302) | ![Blue H](https://github.com/user-attachments/assets/56f70044-8d48-433b-a579-2ef533a6f4a8) |
-
+<p align="center">
+  <img src="./screenshots/test1.png" width="30%" alt="Red F">
+  <img src="./screenshots/test2.png" width="30%" alt="Grey C">
+  <img src="./screenshots/test3.png" width="30%" alt="Blue H">
+</p>
 A new Flutter project.
 
 ## Getting Started
